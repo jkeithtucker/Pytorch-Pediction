@@ -1,4 +1,4 @@
-# Pytorch-Pediction
+# Pytorch-Prediction
 An interesting neural net for identifying and extrapolating linear equations.
 
 ## Application
