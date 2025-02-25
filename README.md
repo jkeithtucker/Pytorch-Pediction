@@ -1,5 +1,5 @@
 # Pytorch-Pediction
-An interesting neural net for predicting linear equations.
+An interesting neural net for identifying and extrapolating linear equations.
 
 ## Application
 - External libraries: matplotlib, pytorch.
